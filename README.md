@@ -30,7 +30,7 @@ O projeto foi desenvolvido com as tecnologias
 $ git clone https://github.com/ronaldprofile/dev.finance.git
 
 # vai entrar na pasta do projeto
-$ cd devfinance
+$ cd na pasta do projeto
 
 # abrir a pasta do projeto no seu editor
 $ Abra a pasta no Visual Studio Code ou editor de sua Preferência
@@ -38,3 +38,7 @@ $ Abra a pasta no Visual Studio Code ou editor de sua Preferência
 # Live Server é uma extensão do Vs Code que executa o arquivo no seu navegador
 $ Agora abra o arquivo index.html com o live Server
 ```
+
+## Veja a aplicação funcionando
+
+- [Dev.Finance](https://sleepy-hermann-c5d072.netlify.app/)
