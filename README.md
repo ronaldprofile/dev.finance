@@ -41,4 +41,4 @@ $ Agora abra o arquivo index.html com o live Server
 
 ## Veja a aplicação funcionando
 
-- [Dev.Finance](https://sleepy-hermann-c5d072.netlify.app/)
+- [dev.finance](https://dev-finance-tau.vercel.app/)
