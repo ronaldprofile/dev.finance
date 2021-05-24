@@ -23,7 +23,7 @@ O projeto foi desenvolvido com as tecnologias
 
 ---
 
-## ⬇️ Como baixar o projeto
+## Como Rodar a aplicação
 
 ```bash
 # clonar o repositório
