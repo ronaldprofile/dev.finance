@@ -30,7 +30,7 @@ O projeto foi desenvolvido com as tecnologias
 $ git clone https://github.com/ronaldprofile/dev.finance.git
 
 # vai entrar na pasta do projeto
-$ cd na pasta do projeto
+$ cd na pasta projeto
 
 # abrir a pasta do projeto no seu editor
 $ Abra a pasta no Visual Studio Code ou editor de sua Preferência
