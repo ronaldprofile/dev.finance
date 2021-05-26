@@ -39,6 +39,6 @@ $ Abra a pasta no Visual Studio Code ou editor de sua Preferência
 $ Agora abra o arquivo index.html com o live Server
 ```
 
-## Veja a aplicação funcionando
+```Veja a aplicação funcionando```
 
 - [dev.finance](https://dev-finance-tau.vercel.app/)
