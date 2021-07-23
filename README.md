@@ -7,7 +7,7 @@
 
 <h1 align="center"><img src="https://ik.imagekit.io/gczsuhmv3/dev.finance_S35R5VYR2a.png"></h1>
 
-## 👀 Sobre
+## 💻 Projeto
 
 **dev.finance$** é um projeto que foi criado durante a **maratona Discover** edição 1, na **Rocketseat**, ela funciona como um paínel de controle de seu dinheiro mostrando os gastos e ganhos se você fez algum projeto, No final você verá o total de gastos e ganhos e claro o usuário pode cadastrar isso no sistema.
 
@@ -23,7 +23,7 @@ O projeto foi desenvolvido com as tecnologias
 
 ---
 
-## Como Rodar a aplicação
+## 🛠 Como rodar a aplicação
 
 ```bash
 # clonar o repositório
